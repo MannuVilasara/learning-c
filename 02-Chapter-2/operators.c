@@ -53,6 +53,6 @@ int main()
 
     //! For Future ↓
     //* Bitwise Operators [chapter: not done yet]
-    //* Ternary Operators [chapter: not done yet]
+    //* Ternary Operators [chapter: 3]
     return 0;
 }
